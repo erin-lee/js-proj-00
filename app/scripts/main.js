@@ -1,4 +1,4 @@
-var answer = Math.floor(Math.random()*100);
+var answer = null;
 var $body = $('body');
 var $newGame = $("button");
 var $reply = $("#reply");
